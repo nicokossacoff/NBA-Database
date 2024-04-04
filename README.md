@@ -1,2 +1,2 @@
 # NBA-Database
-This is a MySQL database with data for NBA players.
+This is a MySQL database with data about NBA players.
